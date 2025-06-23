@@ -30,6 +30,7 @@ pwgen 20
 If you'd like to contribute or run the project locally:
 
 Clone the repository:
+
 git clone https://github.com/Achintha-999/password-generator-cli.git
 
 cd password-generator-cli
