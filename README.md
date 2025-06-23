@@ -1,3 +1,4 @@
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Achintha-999/cpp-headers-library)
 # Password Generator CLI
 
 A simple and secure CLI tool for generating strong passwords of customizable length. This tool is built with Node.js and ensures password strength and randomness for enhanced security in your applications.
