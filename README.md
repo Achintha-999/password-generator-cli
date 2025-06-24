@@ -50,5 +50,3 @@ Run locally to generate a 15-character password:
 node dist/cli.js 15
 
 
-
-
